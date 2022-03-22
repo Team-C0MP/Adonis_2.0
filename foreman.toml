@@ -1,2 +1,2 @@
 [tools]
-rojo = { source="UpliftGames/wally", version="0.3.1" }
+wally = { source="UpliftGames/wally", version="0.3.1" }
